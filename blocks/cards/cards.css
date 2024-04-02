@@ -12,7 +12,7 @@
   background-color: var(--background-color)
   border-radius: 16px;
   position: relative;
-  width: 340px;
+  width: 450px;
 }
 
 .cards .cards-card-body {
@@ -55,5 +55,5 @@
   aspect-ratio: 4 / 3;
   object-fit: contain;
   border-radius: 16px;
-  height: 240px;
+  height: 300px;
 }
