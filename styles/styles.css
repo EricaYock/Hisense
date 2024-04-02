@@ -12,7 +12,7 @@
 
 :root {
   /* colors */
-  --link-color: #035fe6;
+  --link-color: #00AAA6;
   --link-hover-color: #136ff6;
   --background-color: white;
   --light-color: #eee;
@@ -144,7 +144,7 @@ a.button:any-link, button {
   font-style: normal;
   font-weight: 600;
   cursor: pointer;
-  color: #00AAA6;
+  color: #FFFFFF;
   background-color: var(--link-color);
   margin: 16px 0;
   white-space: nowrap;
