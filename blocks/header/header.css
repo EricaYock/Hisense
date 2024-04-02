@@ -19,6 +19,9 @@ header nav {
   height: var(--nav-height);
   padding: 0 1rem;
   font-family: var(--body-font-family);
+  
+  h1 {
+  text-color: white;
 }
 
 header nav[aria-expanded="true"] {
