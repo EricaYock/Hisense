@@ -115,7 +115,7 @@ pre {
 }
 
 main pre {
-  background-color: var(--light-color);
+  background-color: #2A2A2A;
   padding: 1em;
   border-radius: .25em;
   overflow-x: auto;
